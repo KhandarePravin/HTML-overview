@@ -1,0 +1,24 @@
+//HTML 5 tags 
+inside header tag 
+</nav>
+home about 
+inside main tag 
+1.section
+2.article
+3.aside for ad , etc
+
+div is example of inline element 
+div tag another container 
+span is example of inline element 
+span is container 
+
+form 
+needs action 
+
+for adding text box we will use
+input type=  text 
+
+SEO
+Search engine optimization
+on page seo developed by html developers 
+off page seo 	
