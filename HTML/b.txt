@@ -1,7 +1,0 @@
-1. git and github
-2. basic linux command
-3. ssh ip protocols / API's 
-4. HTML css
-5. making clone website
-6. backend - crud nodejs 
-7. 
